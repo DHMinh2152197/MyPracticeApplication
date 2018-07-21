@@ -1,4 +1,4 @@
-package com.example.minhd.my_practice_java_app;
+package com.example.minhd.mypracticeapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
